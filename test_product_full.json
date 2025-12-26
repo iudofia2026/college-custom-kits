@@ -1,0 +1,266 @@
+/Users/iudofia/Documents/GitHub/college-custom-kits/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Starting single product test...
+Testing URL: https://www.kkgool1.com/25-26-Man-City-Special-Edition-Fans-Soccer-Jersey-%E9%A9%AC%E5%B9%B4-p2793324.html
+
+=== Product Data ===
+{
+  "url": "https://www.kkgool1.com/25-26-Man-City-Special-Edition-Fans-Soccer-Jersey-%E9%A9%AC%E5%B9%B4-p2793324.html",
+  "scraped_at": "2025-12-26T17:49:44.954168",
+  "basic_info": {
+    "title": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)",
+    "item_number": "28510089",
+    "brand": "zkhd",
+    "weight": "",
+    "sold_count": 9
+  },
+  "images": [
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/3/8/38b7a906c4bef44a.png",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/3/8/38b7a906c4bef44a.png",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/6/e64cad4c9eb1cf1d.png",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/6/e64cad4c9eb1cf1d.png",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/f/0/f0ab6e5e6be2031e.png",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/f/0/f0ab6e5e6be2031e.png",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/1/4/14ec652817e4d76e.png",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/1/4/14ec652817e4d76e.png",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/8/e831f175162fb5da.png",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/8/e831f175162fb5da.png",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/11/06/2/9/2945bbf269183739.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/11/06/2/9/2945bbf269183739.jpg",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/11/06/f/3/f32927da9df24c21.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/11/06/f/3/f32927da9df24c21.jpg",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/12/17/5/6/56bdd10b9a251379.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/12/17/5/6/56bdd10b9a251379.jpg",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/07/3/2/32d2181a724fb241.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/07/3/2/32d2181a724fb241.jpg",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/11/06/6/2/62a0a013bcc92dfc.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/11/06/6/2/62a0a013bcc92dfc.jpg",
+      "alt": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2024/11/21/3/6/36b805f6966334ad.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2024/11/21/3/6/36b805f6966334ad.jpg",
+      "alt": "Product image"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/21/a/5/a5324cd2d0049e4d.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/21/a/5/a5324cd2d0049e4d.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/21/e/0/e0628fa0392fc2ca.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/21/e/0/e0628fa0392fc2ca.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/28/c/0/c0ae1d4c072001b2.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/28/c/0/c0ae1d4c072001b2.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Fourth Player Version Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/02/19/f/6/f60f8a09f37f9dae.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/02/19/f/6/f60f8a09f37f9dae.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Blue Limited Edition Player Version Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/02/19/a/2/a2f2ac048ef5dc91.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/02/19/a/2/a2f2ac048ef5dc91.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Purple Limited Edition Player Version Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/04/06/8/3/83175daa2809867e.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/04/06/8/3/83175daa2809867e.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Orange Goalkeeper Player Version Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/06/25/3/0/30e771e87fbfd348.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/06/25/3/0/30e771e87fbfd348.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Third Player Version Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/03/05/a/e/aed32bc53f0b575f.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/03/05/a/e/aed32bc53f0b575f.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Blue Limited Edition Fans Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/08/2/8/285ab689a317387d.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/08/2/8/285ab689a317387d.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Special Edition Player Version Soccer Jersey (\u9a6c\u5e74)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/08/13/b/f/bf23cabf7cc90aaf.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/08/13/b/f/bf23cabf7cc90aaf.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Away Long Sleeve Soccer Jersey (\u957f\u8896)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/12/17/c/6/c6f09c4c44f053e0.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/12/17/c/6/c6f09c4c44f053e0.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Away Long Sleeve Player Version Soccer Jersey (\u957f\u8896\u7403\u5458)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/06/10/5/8/5846017fd0f665ac.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/06/10/5/8/5846017fd0f665ac.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Home Long Sleeve Soccer Jersey (\u957f\u8896)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/20/d/a/daf031213d7fd946.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/20/d/a/daf031213d7fd946.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Third Long Sleeve Soccer Jersey (\u957f\u8896)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/06/23/4/8/485d412603189603.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/06/23/4/8/485d412603189603.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City CWC Away Long Sleeve Player Version Soccer Jersey (\u957f\u8896\u7403\u5458)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/12/17/8/a/8a4b586b4669e7f5.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/12/17/8/a/8a4b586b4669e7f5.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Home Long Sleeve Player Version Soccer Jersey (\u957f\u8896\u7403\u5458)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/03/05/5/2/52d31f8de7224684.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/03/05/5/2/52d31f8de7224684.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Purple Limited Edition Fans Soccer Jersey"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/10/16/3/4/3405468be8e19b01.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/10/16/3/4/3405468be8e19b01.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Home Player Version Shorts Pants (High Quality)(\u7403\u5458\u77ed\u88e4)"
+    },
+    {
+      "url": "https://ssl.images-ssl-mars.com/50018/2025/04/20/b/3/b3489acddc010b9f.jpg",
+      "thumbnail": "https://ssl.images-ssl-mars.com/50018/2025/04/20/b/3/b3489acddc010b9f.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_160,h_160",
+      "alt": "25-26 Man City Home Player Version Soccer Jersey"
+    }
+  ],
+  "options": {
+    "sizes": [
+      {
+        "value": "S",
+        "additional_cost": 0.0
+      },
+      {
+        "value": "M",
+        "additional_cost": 0.0
+      },
+      {
+        "value": "L",
+        "additional_cost": 0.0
+      },
+      {
+        "value": "XL",
+        "additional_cost": 0.0
+      },
+      {
+        "value": "XXL",
+        "additional_cost": 0.0
+      },
+      {
+        "value": "3XL",
+        "additional_cost": 1.0
+      },
+      {
+        "value": "4XL",
+        "additional_cost": 1.0
+      }
+    ],
+    "badges": [
+      {
+        "name": "PreL +OKX (34\\u82f1\\u8d85\\u666e+\\u5de6\\u8896\\u5e7f\\u544a)",
+        "image": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/6/e64cad4c9eb1cf1d.png",
+        "additional_cost": 1.0
+      },
+      {
+        "name": "PreL +NO..for +OKX (34\\u82f1\\u8d85\\u666e\\/\\u7ae0\\u4e0b\\u5b57+\\u5de6\\u8896\\u5e7f\\u544a)",
+        "image": "https://ssl.images-ssl-mars.com/50018/2025/10/07/f/0/f0ab6e5e6be2031e.png",
+        "additional_cost": 2.0
+      },
+      {
+        "name": "UCL +OKX (\\u6b27\\u51a0\\u65b0\\u7ae0+\\u5de6\\u8896\\u5e7f\\u544a)",
+        "image": "https://ssl.images-ssl-mars.com/50018/2025/10/07/1/4/14ec652817e4d76e.png",
+        "additional_cost": 2.0
+      },
+      {
+        "name": "Carabao Cup +OKX (\\u82f1\\u8054\\u8d5b\\u676f+\\u5de6\\u8896\\u5e7f\\u544a)",
+        "image": "https://ssl.images-ssl-mars.com/50018/2025/10/07/e/8/e831f175162fb5da.png",
+        "additional_cost": 1.0
+      }
+    ],
+    "customization": [
+      {
+        "type": "Name / Number (Pre League Fonts)\u8054\u8d5b\u5b57\u4f53",
+        "additional_cost": 3.0
+      }
+    ]
+  },
+  "pricing": {
+    "base_price": 14.5,
+    "currency": "USD"
+  },
+  "description": "Home>Premier League>Man City>Kits> 25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)http://www.kkgool1.com/25-26-Man-City-Special-Edition-Fans-Soccer-Jersey-%E9%A9%AC%E5%B9%B4-p2793324.html?parent_user_id=0&utm_source=sns_share&utm_medium=share_urlCopy and share this link on social network or send it to your friendsCopy25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)Item NO.: 28510089Write a ReviewSold(9)US$ 14.50Size:SMLXLXXL3XL(+US$ 1.00)4XL(+US$ 1.00)Badge:(+US$ 1.00)(+US$ 2.00)(+US$ 2.00)(+US$ 1.00)Customized:No Name No NumberName / Number (Horse Year Fonts)\u9a6c\u5e74\u5b57\u4f53(+US$ 4.00)Name / Number (Pre League Fonts)\u8054\u8d5b\u5b57\u4f53(+US$ 3.00)Remark:Customized RequirementsQuantity:Stock ()Shipping Cost:Estimate Shipping CostAdd to CartBuy NowAdding to cart succeed0item(s) in cart, Subtotal:US$ 0Continue ShoppingView My Cart \u00bbShooting due to the light environment, affect the color difference, please refer to the actual product received.1.Customization needs to be paid. not paid do not need to reserve customization information.2. Tips: The product has many detailed pictures and various customization options. Please check in detail before purchasing, then place an order to buy.3. Tips: After the order is placed and the payment is successful, it will be customized according to your products and customization options Delivery. (Customized jerseys cannot be returned or exchanged)4.Special statement: From the order is issued to the successful receipt. Our products may have improved. However, styles and customization options for existing products in your order cannot be changed. After receiving the goods, please refer to your order record (order information). Subject to your order record. If you receive a product with some details that differ from the improved product image on our website and you request a refund or return, in which case we will not issue a refund or return, subject to the time of purchase. Thank you for your understanding.DetailJerseys/Shorts SizeTracksuit SizeWomen/kids SizeMaintenanceReviewsProduct Name25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)Item NO.28510089Weight0.25\u00a0kg = 0.5512 lb = 8.8185 ozCategoryPremier League>Man City>KitsBrandzkhdCreation Time2025-10-071.All jerseys with embroidery and hot stamping numbers or logos should not be washed and dehydrated in a washing machine, please wash by hand!2.Do not soak in powder or boiling water for a long time, and do not wash the number and logo position!3.Please don't expose the number to the sun when drying the jersey. Drying the jersey in the opposite direction will help maintain the number!4. Try not to fold to the number when storing, it is recommended to use a hanger or hang it in the sleeve!No related record foundWrite a ReviewYou May Also Like25-26 Man City Fourth Player..US$ 18.0025-26 Man City Blue Limited..US$ 18.0025-26 Man City Purple Limited..US$ 18.0025-26 Man City Orange Goalkeeper..US$ 18.0025-26 Man City Third Player..US$ 18.0025-26 Man City Blue Limited..US$ 14.5025-26 Man City Special Edition..US$ 18.0025-26 Man City Away Long Sleeve..US$ 15.5025-26 Man City Away Long Sleeve..US$ 19.0025-26 Man City Home Long Sleeve..US$ 15.5025-26 Man City Third Long Sleeve..US$ 15.5025-26 Man City CWC Away Long..US$ 19.0025-26 Man City Home Long Sleeve..US$ 19.0025-26 Man City Purple Limited..US$ 14.5025-26 Man City Home Player Version..US$ 17.0025-26 Man City Home Player Version..US$ 18.00",
+  "specifications": {
+    "": "Customized Requirements",
+    "Product Name": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)",
+    "Item NO.": "28510089",
+    "Weight": "0.25\u00a0kg = 0.5512 lb = 8.8185 oz",
+    "Category": "Premier League>Man City>Kits",
+    "Brand": "zkhd",
+    "Creation Time": "2025-10-07"
+  },
+  "category_path": [
+    {
+      "name": "Home",
+      "url": "https://www.kkgool1.com"
+    },
+    {
+      "name": "Premier League",
+      "url": "https://www.kkgool1.com/Premier-League-c50069.html"
+    },
+    {
+      "name": "Man City",
+      "url": "https://www.kkgool1.com/Man-City-c58021.html"
+    },
+    {
+      "name": "Kits",
+      "url": "https://www.kkgool1.com/Kits-c122268.html"
+    },
+    {
+      "name": "25-26 Man City Special Edition Fans Soccer Jersey (\u9a6c\u5e74)",
+      "url": "https://www.kkgool1.com/25-26-Man-City-Special-Edition-Fans-Soccer-Jersey-%E9%A9%AC%E5%B9%B4-p2793324.html"
+    }
+  ]
+}
+Saved 1 products to test_product.json
+
+✓ Saved to test_product.json
+
+Downloading product images...
+✓ Images downloaded successfully!
